@@ -19,7 +19,9 @@ This part investigates what type of probability distribution stands behind the b
 - analysis of bikes$Counts: Cullen and Frey graphs
 - searching for predictors "responsible" for a bimodal behaviour: breaking the data by hour (>6.5)
 - attempt to fit specific distributions
-- $casual & $registered columns are removed, as they will not be used for prediction. 
+- $casual & $registered columns are removed, as they will not be used for prediction.
+
+Further analysis of this type could enable one to discuss, possibly, the presence of outliers etc. 
   
 ## Part C
 In this part I work with the "full data", not broken by hour (6.5).
